@@ -1,0 +1,16 @@
+NO	NAME		isC	isD
+1	Zijingyuan	1	1
+2	Taoliyuan	1	1
+3	Dingxiangyuan	1	1
+4	Tingtaoyuan	1	1
+5	Qingfenyuan	1	1
+6	Guanchouyuan	1	1
+7	HeYuan		1	1
+8	Lanyuan		1	0
+9	Zhilanyuan	1	0
+10	Yushuyuan	1	0
+11	CLOU_store	1	0
+12	Guanchou_store	1	0
+13	CLOU_North	0	1
+14	MAIN_LOU	0	1
+
